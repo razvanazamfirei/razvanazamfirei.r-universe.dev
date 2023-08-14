@@ -1,67 +1,75 @@
 [
-    {
-        "package": "polars",
-        "url": "https://github.com/pola-rs/r-polars/",
-        "branch": "*release"
-    },
-    {
-        "package": "gt",
-        "url": "https://github.com/rstudio/gt/",
-        "branch": "*release"
-    },
-    {
-        "package": "ggplot2",
-        "url": "https://github.com/tidyverse/ggplot2/",
-        "branch": "*release"
-    },
-    {
-        "package": "renv",
-        "url": "https://github.com/rstudio/renv/",
-        "branch": "*release"
-    },
-    {
-        "package": "dplyr",
-        "url": "https://github.com/tidyverse/dplyr/",
-        "branch": "*release"
-    },
-    {
-        "package": "tidyr",
-        "url": "https://github.com/tidyverse/tidyr/",
-        "branch": "*release"
-    },
-    {
-        "package": "purrr",
-        "url": "https://github.com/tidyverse/purrr/",
-        "branch": "*release"
-    },
-    {
-        "package": "readr",
-        "url": "https://github.com/tidyverse/readr/",
-        "branch": "*release"
-    },
-    {
-        "package": "magrittr",
-        "url": "https://github.com/tidyverse/magrittr/",
-        "branch": "*release"
-    },
-    {
-        "package": "lubridate",
-        "url": "https://github.com/tidyverse/lubridate/",
-        "branch": "*release"
-    },
-    {
-        "package": "tibble",
-        "url": "https://github.com/tidyverse/tibble/",
-        "branch": "*release"
-    },
-    {
-        "package": "haven",
-        "url": "https://github.com/tidyverse/haven/",
-        "branch": "*release"
-    },
-    {
-        "package": "cowplot",
-        "url": "https://github.com/wilkelab/cowplot/",
-        "branch": "*release"
-    }
+  {
+    "package": "renv",
+    "url": "https://github.com/rstudio/renv/",
+    "branch": "*release"
+  },
+  {
+    "package": "polars",
+    "url": "https://github.com/pola-rs/r-polars/",
+    "branch": "*release"
+  },
+  {
+    "package": "cowplot",
+    "url": "https://github.com/wilkelab/cowplot/",
+    "branch": "*release"
+  },
+  {
+    "package": "ganttrify",
+    "url": "https://github.com/giocomai/ganttrify"
+  },
+  {
+    "package": "simdistr",
+    "url": "https://github.com/cran/simdistr/"
+  },
+  {
+    "package": "gt",
+    "url": "https://github.com/rstudio/gt/",
+    "branch": "*release"
+  },
+  {
+    "package": "ggplot2",
+    "url": "https://github.com/tidyverse/ggplot2/",
+    "branch": "*release"
+  },
+  {
+    "package": "dplyr",
+    "url": "https://github.com/tidyverse/dplyr/",
+    "branch": "*release"
+  },
+  {
+    "package": "tidyr",
+    "url": "https://github.com/tidyverse/tidyr/",
+    "branch": "*release"
+  },
+  {
+    "package": "purrr",
+    "url": "https://github.com/tidyverse/purrr/",
+    "branch": "*release"
+  },
+  {
+    "package": "readr",
+    "url": "https://github.com/tidyverse/readr/",
+    "branch": "*release"
+  },
+  {
+    "package": "magrittr",
+    "url": "https://github.com/tidyverse/magrittr/",
+    "branch": "*release"
+  },
+  {
+    "package": "lubridate",
+    "url": "https://github.com/tidyverse/lubridate/",
+    "branch": "*release"
+  },
+  {
+    "package": "tibble",
+    "url": "https://github.com/tidyverse/tibble/",
+    "branch": "*release"
+  },
+  {
+    "package": "haven",
+    "url": "https://github.com/tidyverse/haven/",
+    "branch": "*release"
+  }
 ]
