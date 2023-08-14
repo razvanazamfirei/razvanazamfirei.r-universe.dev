@@ -17,5 +17,5 @@ install.packages('dplyr')
 The main file is `packages.yaml`. To get the json file, we run:
 
 ```
-yq packages.yaml -o=json -i packages.json
+yq eval -o=json packages.yaml > packages.json
 ```
