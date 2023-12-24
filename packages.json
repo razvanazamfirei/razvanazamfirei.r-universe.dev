@@ -10,13 +10,52 @@
     "branch": "*release"
   },
   {
+    "package": "zoo",
+    "url": "https://zoo.R-Forge.R-project.org/"
+  },
+  {
+    "package": "broom",
+    "url": "https://github.com/tidymodels/broom/"
+  },
+  {
+    "package": "ggplot2",
+    "url": "https://github.com/tidyverse/ggplot2/",
+    "branch": "*release"
+  },
+  {
     "package": "cowplot",
     "url": "https://github.com/wilkelab/cowplot/",
     "branch": "*release"
   },
   {
     "package": "ganttrify",
-    "url": "https://github.com/giocomai/ganttrify"
+    "url": "https://github.com/giocomai/ganttrify/"
+  },
+  {
+    "package": "ggforce",
+    "url": "https://github.com/thomasp85/ggforce/",
+    "branch": "*release"
+  },
+  {
+    "package": "patchwork",
+    "url": "https://github.com/thomasp85/patchwork/",
+    "branch": "*release"
+  },
+  {
+    "package": "sysfonts",
+    "url": "https://github.com/yixuan/sysfonts/"
+  },
+  {
+    "package": "showtext",
+    "url": "https://github.com/yixuan/showtext/"
+  },
+  {
+    "package": "scales",
+    "url": "https://scales.r-lib.org/"
+  },
+  {
+    "package": "png",
+    "url": "https://www.rforge.net/png/"
   },
   {
     "package": "simdistr",
@@ -25,11 +64,6 @@
   {
     "package": "gt",
     "url": "https://github.com/rstudio/gt/",
-    "branch": "*release"
-  },
-  {
-    "package": "ggplot2",
-    "url": "https://github.com/tidyverse/ggplot2/",
     "branch": "*release"
   },
   {
@@ -71,5 +105,14 @@
     "package": "haven",
     "url": "https://github.com/tidyverse/haven/",
     "branch": "*release"
+  },
+  {
+    "package": "hrbrthemes",
+    "url": "https://github.com/hrbrmstr/hrbrthemes/",
+    "branch": "*release"
+  },
+  {
+    "package": "assertthat",
+    "url": "https://cran.r-project.org/package=assertthat"
   }
 ]
