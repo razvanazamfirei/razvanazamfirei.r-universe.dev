@@ -108,8 +108,7 @@
   },
   {
     "package": "hrbrthemes",
-    "url": "https://github.com/hrbrmstr/hrbrthemes",
-    "branch": "*release"
+    "url": "https://CRAN.R-project.org/package=hrbrthemes"
   },
   {
     "package": "assertthat",
