@@ -75,7 +75,7 @@
 
 # Themes
 - package: hrbrthemes
-  url: 'https://github.com/hrbrmstr/hrbrthemes/'
+  url: 'https://github.com/hrbrmstr/hrbrthemes'
   branch: '*release'
 
 # Programming
