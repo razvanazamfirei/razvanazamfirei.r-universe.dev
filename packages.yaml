@@ -1,82 +1,80 @@
 # Basic Setup
 
 - package: renv
-  url: 'https://github.com/rstudio/renv/'
+  url: 'https://github.com/rstudio/.git'
   branch: '*release'
 
 # Data Utilities
 
 - package: polars
-  url: 'https://github.com/pola-rs/r-polars/'
+  url: 'https://github.com/pola-rs/r-polars.git'
   branch: '*release'
-- package: zoo
-  url: 'https://zoo.R-Forge.R-project.org/'
 - package: broom
-  url: 'https://github.com/tidymodels/broom/'
+  url: 'https://github.com/tidymodels/broom.git'
+  branch: '*release'
 
 # Graphing Utilities
 - package: ggplot2
-  url: 'https://github.com/tidyverse/ggplot2/'
+  url: 'https://github.com/tidyverse/ggplot2.git'
   branch: '*release'
 - package: cowplot
-  url: 'https://github.com/wilkelab/cowplot/'
+  url: 'https://github.com/wilkelab/cowplot.git'
   branch: '*release'
 - package: ganttrify
-  url: 'https://github.com/giocomai/ganttrify/'
+  url: 'https://github.com/giocomai/ganttrify.git'
 - package: ggforce
-  url: 'https://github.com/thomasp85/ggforce/'
+  url: 'https://github.com/thomasp85/ggforce.git'
   branch: '*release'
 - package: patchwork
-  url: 'https://github.com/thomasp85/patchwork/'
+  url: 'https://github.com/thomasp85/patchwork.git'
   branch: '*release'
 - package: sysfonts
-  url: 'https://github.com/yixuan/sysfonts/'
+  url: 'https://github.com/yixuan/sysfonts.git'
 - package: showtext
-  url: 'https://github.com/yixuan/showtext/'
-- package: scales
-  url: 'https://scales.r-lib.org/'
-- package: png
-  url: 'https://www.rforge.net/png/'
-
+  url: 'https://github.com/yixuan/showtext.git'
+- package: ggridges
+  url: 'https://github.com/wilkelab/ggridges.git'
+- package: gridtext
+  url: 'https://github.com/wilkelab/gridtext.git'
 # Trial Validation
 
 - package: simdistr
-  url: 'https://github.com/cran/simdistr/'
+  url: 'https://github.com/cran/simdistr.git'
 
 # Tidyverse
 
 - package: gt
-  url: 'https://github.com/rstudio/gt/'
+  url: 'https://github.com/rstudio/gt.git'
   branch: '*release'
 - package: dplyr
-  url: 'https://github.com/tidyverse/dplyr/'
+  url: 'https://github.com/tidyverse/dplyr.git'
   branch: '*release'
 - package: tidyr
-  url: 'https://github.com/tidyverse/tidyr/'
+  url: 'https://github.com/tidyverse/tidyr.git'
   branch: '*release'
 - package: purrr
-  url: 'https://github.com/tidyverse/purrr/'
+  url: 'https://github.com/tidyverse/purrr.git'
   branch: '*release'
 - package: readr
-  url: 'https://github.com/tidyverse/readr/'
+  url: 'https://github.com/tidyverse/readr.git'
   branch: '*release'
 - package: magrittr
-  url: 'https://github.com/tidyverse/magrittr/'
+  url: 'https://github.com/tidyverse/magrittr.git'
   branch: '*release'
 - package: lubridate
-  url: 'https://github.com/tidyverse/lubridate/'
+  url: 'https://github.com/tidyverse/lubridate.git'
   branch: '*release'
 - package: tibble
-  url: 'https://github.com/tidyverse/tibble/'
+  url: 'https://github.com/tidyverse/tibble.git'
   branch: '*release'
 - package: haven
-  url: 'https://github.com/tidyverse/haven/'
+  url: 'https://github.com/tidyverse/haven.git'
   branch: '*release'
 
 # Themes
 - package: hrbrthemes
-  url: 'https://CRAN.R-project.org/package=hrbrthemes'
-
-# Programming
-- package: assertthat
-  url: 'https://cran.r-project.org/package=assertthat'
+  url: 'https://github.com/hrbrmstr/hrbrthemes.git'
+  branch: '*release'
+- package: viridis
+  url: 'https://github.com/sjmgarnier/viridis.git'
+  branch: '*release'
