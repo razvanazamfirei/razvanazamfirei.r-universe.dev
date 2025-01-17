@@ -1,10 +1,5 @@
 [
   {
-    "package": "renv",
-    "url": "https://github.com/rstudio/.git",
-    "branch": "*release"
-  },
-  {
     "package": "polars",
     "url": "https://github.com/pola-rs/r-polars.git",
     "branch": "*release"

@@ -1,0 +1,6 @@
+[tasks.sync-json]
+description = "Sync YAML to JSON"
+run = "yq eval -o=json packages.yaml > packages.json"
+
+[tools]
+yq = "latest"
